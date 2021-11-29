@@ -1,0 +1,11 @@
+ol:first-child li:nth-child(odd) {
+  text-decoration: line-through;
+}
+
+ol:first-child li:nth-child(even) {
+  text-decoration: underline;
+}
+
+.segundo li:nth-last-child(4n + 1) {
+  color: green;
+}

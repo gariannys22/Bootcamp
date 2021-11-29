@@ -1,0 +1,9 @@
+p:first-child {
+  border-top: 1px solid black;
+  color: black;
+}
+
+p:last-child {
+  border-bottom: 1px solid black;
+  color: black;
+}
