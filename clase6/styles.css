@@ -1,0 +1,15 @@
+.fondo-div {
+  width: 1600px;
+  height: 800px;
+  background-color: turquoise;
+  /*background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/800px-Marvel_Logo.svg.png);*/
+  background-repeat: no-repeat;
+  background-image: linear-gradient(#710201, pink);
+  background-size: cover;
+  background-position: 0% 50%;
+  background-attachment: scroll;
+}
+
+body {
+  height: 2000px;
+}
